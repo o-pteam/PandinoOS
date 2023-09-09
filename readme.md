@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Logo.png" width="256" height="256" />
+    <img src="PandinoOS Moon.png" width="256" height="256" />
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/PandinoOS%20-v.3 Moon-blue" />
