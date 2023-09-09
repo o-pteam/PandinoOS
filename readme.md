@@ -3,7 +3,6 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/PandinoOS%20-v.3 Moon-blue" />
-    <img src="https://img.shields.io/badge/License-GPLv3-brightgreen" />
 
 # 💬 PandinoOS
 WARNING! 
