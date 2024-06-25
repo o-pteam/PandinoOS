@@ -5,5 +5,4 @@
     <img src="https://img.shields.io/badge/PandinoOS%20-v.3 Moon-blue" />
 
 # 💬 PandinoOS
-WARNING! 
-THIS IS A DOWNLOAD CENTER FOR OPEN-SHOP, SO IF YOU WANT TO DOWNLOAD THE FILE, DOWNLOAD IT FROM THE OPEN-SHOP
+A rom based on Cyanogenmod Rom for the U8150 and for other phone (coming soon...)
